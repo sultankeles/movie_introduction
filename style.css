@@ -1,0 +1,43 @@
+html{
+    height: 100%;
+    background-color: rgba(51, 7, 7, 0.555);
+}
+
+
+h1{
+    color: darkred;
+    letter-spacing: 3px;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Tilt Prism', cursive;
+}
+
+.cast{
+    color: rgb(44, 44, 44);
+    margin-left: 70px;
+}
+
+
+img{
+    width: 1200px;
+    height: 400px;
+    box-shadow: 20px 20px 30px rgb(36, 80, 95);            
+}
+
+img:hover{
+    border-radius: 100px 200px 100px 200px;
+    position: center;
+}
+
+
+.reviews{
+    color: rgb(44, 44, 44);
+    letter-spacing: 2px;
+    line-height: 30px ;
+    text-align: center;
+    font-family: 'Playfair', serif;
+}
+
+.buton{
+    text-align: center;
+}
